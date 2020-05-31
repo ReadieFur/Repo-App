@@ -1,0 +1,21 @@
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\bin\kOFR Repo\kOFR Repo.exe.config
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\bin\kOFR Repo\kOFR Repo.exe
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\bin\kOFR Repo\kOFR Repo.pdb
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\bin\kOFR Repo\Microsoft.WindowsAPICodePack.xml
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\bin\kOFR Repo\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\obj\kOFR Repo\Interop.IWshRuntimeLibrary.dll
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\obj\kOFR Repo\kOFR Repo.csproj.ResolveComReference.cache
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\obj\kOFR Repo\FileDownloader.g.cs
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\obj\kOFR Repo\Installer.g.cs
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\obj\kOFR Repo\App.g.cs
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\obj\kOFR Repo\kOFR Repo_MarkupCompile.cache
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\obj\kOFR Repo\kOFR Repo_MarkupCompile.lref
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\obj\kOFR Repo\FileDownloader.baml
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\obj\kOFR Repo\Installer.baml
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\obj\kOFR Repo\kOFR Repo.g.resources
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\obj\kOFR Repo\kOFR_Repo.Properties.Resources.resources
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\obj\kOFR Repo\kOFR Repo.csproj.GenerateResource.cache
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\obj\kOFR Repo\kOFR Repo.csproj.Fody.CopyLocal.cache
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\obj\kOFR Repo\kOFR Repo.csproj.CopyComplete
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\obj\kOFR Repo\kOFR Repo.exe
+D:\Documents (New)\Visual Studio\kOFR Repo\kOFR Repo\obj\kOFR Repo\kOFR Repo.pdb
