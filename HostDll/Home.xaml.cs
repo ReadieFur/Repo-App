@@ -17,7 +17,7 @@ namespace kOFRRepo
             InitializeComponent();
             try
             {
-                //background.Background = Styles.theme();
+                background.Background = Styles.theme();
                 appName.Foreground = Styles.text();
                 appVersion.Foreground = Styles.text();
                 appNameLine.Stroke = Styles.gBWHorizontal;
