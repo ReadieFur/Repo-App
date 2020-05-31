@@ -1,0 +1,9 @@
+Debug/
+.vs/
+
+HostApp/.vs/
+HostApp/bin/
+HostApp/obj/
+
+HostDll/bin/
+HostDll/obj/
